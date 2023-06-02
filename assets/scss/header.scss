@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    justify-content: space-between;
+
+    .sign_in{
+        display: flex;
+        align-items: center;
+    }
+
+    a{
+        margin: 10px;
+    }
+
+    li{
+        list-style: none;
+       
+    }
+
+}

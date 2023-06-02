@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+header .sign_in {
+  display: flex;
+  align-items: center;
+}
+
+header a {
+  margin: 10px;
+}
+
+header li {
+  list-style: none;
+}

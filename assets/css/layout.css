@@ -1,0 +1,8 @@
+body {
+  padding: 1%;
+  font-family: sans-serif;
+}
+
+body #layout-main {
+  height: 100%;
+}
